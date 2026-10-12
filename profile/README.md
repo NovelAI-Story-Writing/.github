@@ -25,7 +25,7 @@ Searches such as NovelAI story writing, NovelAI image generation, and NovelAI pr
 | **Remembers context** | Drafts, prompts, and presets help you return to the next task fast. |
 | **Fast feedback** | Open NovelAI, pick a draft, and create without switching tools. |
 
-![NovelAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY8KwUE1wU7Y7OljfsgdUTZ6xUAkdH0aHSn_TzoyjJw&s)
+![NovelAI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ixz6PmMDs7WpSywRnpxiH7P6ApU3VUEaxQj3qPjxrg&s)
 
 ## Key Features of NovelAI
 
